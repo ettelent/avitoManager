@@ -1,0 +1,26 @@
+<Window x:Class="AccountManager.Desktop.ProxyDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Прокси профиля" Width="470" Height="360" WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+    <Grid Margin="18">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" /><RowDefinition Height="Auto" /><RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" /><RowDefinition Height="Auto" /><RowDefinition Height="*" /><RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <TextBlock Text="Тип прокси" />
+        <ComboBox x:Name="TypeBox" Grid.Row="1" Margin="0,5,0,10" />
+        <TextBlock Text="Адрес (например, 127.0.0.1:8080 или http://127.0.0.1:8080)" Grid.Row="2" />
+        <TextBox x:Name="ServerBox" Grid.Row="3" Margin="0,5,0,10" />
+        <Grid Grid.Row="4">
+            <Grid.ColumnDefinitions><ColumnDefinition /><ColumnDefinition /></Grid.ColumnDefinitions>
+            <StackPanel Margin="0,0,6,0"><TextBlock Text="Логин" /><TextBox x:Name="UsernameBox" Margin="0,5,0,0" /></StackPanel>
+            <StackPanel Grid.Column="1" Margin="6,0,0,0"><TextBlock Text="Пароль" /><PasswordBox x:Name="PasswordBox" Margin="0,5,0,0" /></StackPanel>
+        </Grid>
+        <TextBlock Grid.Row="5" Text="Пароль хранится через Windows DPAPI и не записывается открытым текстом." Foreground="Gray" TextWrapping="Wrap" Margin="0,12,0,0" />
+        <StackPanel Grid.Row="6" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,14,0,0">
+            <Button Content="Отключить" Click="ClearClick" />
+            <Button Content="Отмена" IsCancel="True" />
+            <Button Content="Сохранить" IsDefault="True" Click="SaveClick" />
+        </StackPanel>
+    </Grid>
+</Window>

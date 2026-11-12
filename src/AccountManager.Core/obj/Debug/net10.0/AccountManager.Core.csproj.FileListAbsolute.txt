@@ -1,0 +1,11 @@
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Core\bin\Debug\net10.0\AccountManager.Core.deps.json
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Core\bin\Debug\net10.0\AccountManager.Core.dll
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Core\bin\Debug\net10.0\AccountManager.Core.pdb
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Core\obj\Debug\net10.0\AccountManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Core\obj\Debug\net10.0\AccountManager.Core.AssemblyInfoInputs.cache
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Core\obj\Debug\net10.0\AccountManager.Core.AssemblyInfo.cs
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Core\obj\Debug\net10.0\AccountManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Core\obj\Debug\net10.0\AccountManager.Core.dll
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Core\obj\Debug\net10.0\refint\AccountManager.Core.dll
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Core\obj\Debug\net10.0\AccountManager.Core.pdb
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Core\obj\Debug\net10.0\ref\AccountManager.Core.dll

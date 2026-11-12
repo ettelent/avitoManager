@@ -1,0 +1,17 @@
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\bin\Debug\net10.0\AccountManager.Infrastructure.deps.json
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\bin\Debug\net10.0\AccountManager.Infrastructure.dll
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\bin\Debug\net10.0\AccountManager.Infrastructure.pdb
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\bin\Debug\net10.0\AccountManager.Application.dll
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\bin\Debug\net10.0\AccountManager.Core.dll
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\bin\Debug\net10.0\AccountManager.Core.pdb
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\bin\Debug\net10.0\AccountManager.Application.pdb
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\obj\Debug\net10.0\AccountManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\obj\Debug\net10.0\AccountManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\obj\Debug\net10.0\AccountManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\obj\Debug\net10.0\AccountManager.Infrastructure.AssemblyInfo.cs
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\obj\Debug\net10.0\AccountManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\obj\Debug\net10.0\AccountM.FFACE4BE.Up2Date
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\obj\Debug\net10.0\AccountManager.Infrastructure.dll
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\obj\Debug\net10.0\refint\AccountManager.Infrastructure.dll
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\obj\Debug\net10.0\AccountManager.Infrastructure.pdb
+C:\Users\zxcpenis\Desktop\avitoManager\src\AccountManager.Infrastructure\obj\Debug\net10.0\ref\AccountManager.Infrastructure.dll

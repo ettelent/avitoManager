@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sfQ3P87mTkc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zxcpenis\\Desktop\\avitoManager\\src\\AccountManager.Agent\\AccountManager.Agent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zxcpenis\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\zxcpenis\\.nuget\\packages\\microsoft.playwright\\1.64.1\\microsoft.playwright.1.64.1.nupkg.sha512",
+    "C:\\Users\\zxcpenis\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
